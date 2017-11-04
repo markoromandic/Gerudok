@@ -1,0 +1,17 @@
+action
+app
+command
+constants
+editor
+files
+model
+view
+view.maker
+view.menuBar
+view.menuBar.menu
+view.menuBar.menu.settings
+view.project
+view.project.document
+view.project.document.page
+view.project.document.page.slot
+work
